@@ -1,1 +1,1 @@
-# geandpaula.github.io
+`theme: Architect`
